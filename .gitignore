@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive / Office temp files
+~$*
+*.tmp
+*.laccdb
+
+# Godot caches (project files themselves are committed)
+.godot/
+.import/
+*.translation
+export_presets.cfg
+
+# Editor cruft
+*.swp
+*~

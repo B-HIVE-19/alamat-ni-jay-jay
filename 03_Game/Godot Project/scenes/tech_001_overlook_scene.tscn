@@ -1,0 +1,171 @@
+[gd_scene load_steps=2 format=3 uid="uid://tech001overlook"]
+
+[ext_resource type="Script" path="res://scripts/tech_001_overlook_scene.gd" id="1_script"]
+
+[node name="TECH001OverlookScene" type="Node2D"]
+editor_description = "TECH-001 root. Owns the complete visible overlook prototype and input/fade script."
+script = ExtResource("1_script")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+editor_description = "Camera frames the 1280x720 2D overlook prototype."
+position = Vector2(640, 360)
+enabled = true
+
+[node name="Visuals" type="Node2D" parent="."]
+editor_description = "Visible placeholder world art. These nodes are non-canon prototype shapes."
+
+[node name="SkyBackground" type="ColorRect" parent="Visuals"]
+editor_description = "Sky background placeholder."
+offset_right = 1280.0
+offset_bottom = 720.0
+color = Color(0.54902, 0.784314, 1, 1)
+
+[node name="OceanHorizonBand" type="ColorRect" parent="Visuals"]
+editor_description = "Ocean/horizon band placeholder for distant overlook mood."
+offset_left = 0.0
+offset_top = 338.0
+offset_right = 1280.0
+offset_bottom = 462.0
+color = Color(0.392157, 0.65098, 0.839216, 1)
+
+[node name="SunsetHazeBand" type="ColorRect" parent="Visuals"]
+editor_description = "Warm horizon haze placeholder for wonder and invitation."
+offset_left = 0.0
+offset_top = 312.0
+offset_right = 1280.0
+offset_bottom = 386.0
+color = Color(0.956863, 0.823529, 0.541176, 0.78)
+
+[node name="FarHills" type="Polygon2D" parent="Visuals"]
+editor_description = "Distant hill silhouettes establish depth without final environment art."
+color = Color(0.321569, 0.498039, 0.45098, 1)
+polygon = PackedVector2Array(0, 420, 130, 300, 270, 392, 420, 278, 620, 420, 780, 310, 980, 410, 1160, 292, 1280, 390, 1280, 720, 0, 720)
+
+[node name="NearHills" type="Polygon2D" parent="Visuals"]
+editor_description = "Near hill silhouettes support the overlook composition."
+color = Color(0.192157, 0.364706, 0.309804, 1)
+polygon = PackedVector2Array(0, 500, 180, 390, 360, 505, 540, 370, 760, 510, 960, 380, 1280, 500, 1280, 720, 0, 720)
+
+[node name="CliffPlatform" type="Polygon2D" parent="Visuals"]
+editor_description = "Cliff platform placeholder where Jay Jay stands."
+color = Color(0.419608, 0.329412, 0.219608, 1)
+polygon = PackedVector2Array(0, 560, 520, 520, 650, 545, 790, 520, 1280, 560, 1280, 720, 0, 720)
+
+[node name="RoadTowardUnknown" type="Polygon2D" parent="Visuals"]
+editor_description = "Simple road shape pointing into the unknown."
+color = Color(0.654902, 0.505882, 0.298039, 1)
+polygon = PackedVector2Array(595, 526, 692, 526, 760, 720, 520, 720)
+
+[node name="Clouds" type="Node2D" parent="Visuals"]
+editor_description = "Cloud placeholders. The script scrolls these nodes horizontally."
+
+[node name="CloudA" type="ColorRect" parent="Visuals/Clouds"]
+editor_description = "Scrolling cloud placeholder A."
+offset_left = 80.0
+offset_top = 92.0
+offset_right = 260.0
+offset_bottom = 134.0
+color = Color(1, 1, 1, 0.78)
+
+[node name="CloudB" type="ColorRect" parent="Visuals/Clouds"]
+editor_description = "Scrolling cloud placeholder B."
+offset_left = 420.0
+offset_top = 132.0
+offset_right = 655.0
+offset_bottom = 180.0
+color = Color(1, 1, 1, 0.72)
+
+[node name="CloudC" type="ColorRect" parent="Visuals/Clouds"]
+editor_description = "Scrolling cloud placeholder C."
+offset_left = 900.0
+offset_top = 82.0
+offset_right = 1110.0
+offset_bottom = 127.0
+color = Color(1, 1, 1, 0.76)
+
+[node name="PlaceholderJayJay" type="Node2D" parent="Visuals"]
+editor_description = "Placeholder Jay Jay grouping. Non-canon shape used only for visual-feel testing."
+position = Vector2(630, 515)
+
+[node name="Body" type="Polygon2D" parent="Visuals/PlaceholderJayJay"]
+editor_description = "Placeholder Jay Jay body. Not final character art."
+color = Color(0.184314, 0.372549, 0.560784, 1)
+polygon = PackedVector2Array(-22, 0, 22, 0, 32, 84, -28, 84)
+
+[node name="Head" type="Polygon2D" parent="Visuals/PlaceholderJayJay"]
+editor_description = "Placeholder Jay Jay head. Not final likeness."
+color = Color(0.541176, 0.352941, 0.235294, 1)
+polygon = PackedVector2Array(-16, -34, 16, -34, 20, -6, 0, 10, -20, -6)
+
+[node name="RedScarf" type="Polygon2D" parent="Visuals/PlaceholderJayJay"]
+editor_description = "Red scarf prototype readability detail. Does not lock canon costume."
+color = Color(0.776471, 0.156863, 0.156863, 1)
+polygon = PackedVector2Array(-24, -2, 22, -2, 8, 24, -18, 18)
+
+[node name="GoldenSimpleStaff" type="Line2D" parent="Visuals/PlaceholderJayJay"]
+editor_description = "Golden/simple staff prototype detail. Does not lock canon weapon."
+points = PackedVector2Array(40, -42, 58, 100)
+width = 7.0
+default_color = Color(0.839216, 0.643137, 0.215686, 1)
+
+[node name="StaffTip" type="ColorRect" parent="Visuals/PlaceholderJayJay"]
+editor_description = "Simple square staff tip placeholder."
+offset_left = 36.0
+offset_top = -52.0
+offset_right = 52.0
+offset_bottom = -36.0
+color = Color(0.839216, 0.643137, 0.215686, 1)
+
+[node name="UILayer" type="CanvasLayer" parent="."]
+editor_description = "Canvas UI layer for studio/title text, dialogue box, instructions, and fade."
+
+[node name="StudioLabel" type="Label" parent="UILayer"]
+editor_description = "Opening studio text shown first at runtime."
+offset_left = 0.0
+offset_top = 270.0
+offset_right = 1280.0
+offset_bottom = 330.0
+text = "1910 Creative Studios"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 42
+
+[node name="TitleLabel" type="Label" parent="UILayer"]
+editor_description = "Title screen text shown after pressing Enter once."
+offset_left = 0.0
+offset_top = 72.0
+offset_right = 1280.0
+offset_bottom = 142.0
+text = "Alamat ni Jay Jay"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 50
+
+[node name="DialogueBox" type="Panel" parent="UILayer"]
+editor_description = "Temporary dialogue box for the two required prototype lines."
+offset_left = 150.0
+offset_top = 510.0
+offset_right = 1130.0
+offset_bottom = 650.0
+
+[node name="DialogueLabel" type="Label" parent="UILayer/DialogueBox"]
+editor_description = "Displays the current prototype dialogue line."
+offset_left = 32.0
+offset_top = 24.0
+offset_right = 948.0
+offset_bottom = 82.0
+text = "\"I don't know where this road goes...\""
+theme_override_font_sizes/font_size = 30
+
+[node name="InstructionLabel" type="Label" parent="UILayer/DialogueBox"]
+editor_description = "Shows the Enter prompt for prototype advancement."
+offset_left = 32.0
+offset_top = 92.0
+offset_right = 948.0
+offset_bottom = 124.0
+text = "Press Enter"
+theme_override_font_sizes/font_size = 18
+
+[node name="FadeToBlack" type="ColorRect" parent="UILayer"]
+editor_description = "Full-screen fade layer used after the final Enter press."
+offset_right = 1280.0
+offset_bottom = 720.0
+color = Color(0, 0, 0, 0)
