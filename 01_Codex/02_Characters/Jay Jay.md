@@ -19,7 +19,10 @@ Author:
 Jeffrey Moralde
 
 Source:
-Character art sheet "Jay Jay — The Heart of the Journey" (see `04_Assets/Characters/`).
+Character art sheet "Jay Jay — The Heart of the Journey" (see `04_Assets/Characters/`); merged content from CHR-001 Character Profile (Approved, June 28, 2026). Canonical home per CAN-0017; document ID CHR-001 preserved as stub pointer.
+
+Protected Doctrine:
+`Jay Jay/CHR-001A Character Soul.md` (The Heart of Jay Jay) remains the protected doctrine for his emotional authenticity.
 
 ## Core Read
 
@@ -28,6 +31,29 @@ Jay Jay is the protagonist and emotional heart of *Alamat ni Jay Jay*. He is fun
 Signature quote:
 
 > "I may not be the strongest… but I'll never leave my friends behind."
+
+## Tribute Foundation (from CHR-001, Approved)
+
+Jay Jay is an original fictional hero created as a tribute, not a biographical recreation. He is inspired by the qualities Jeffrey loved most about his late brother. In the world of *Alamat ni Jay Jay*, Jay Jay becomes the hero he always dreamed of being.
+
+Known canon:
+
+- Jay Jay is inspired by Jeffrey Moralde's late brother.
+- Jay Jay is not a biographical recreation.
+- Jay Jay is not designed to become a perfect hero; he is designed to become unforgettable.
+- Jay Jay sketches the world because drawing teaches him to truly see it.
+- Jay Jay's kindness is a choice, not naivete.
+- Jay Jay's closest family may see his dry humor, The Face, moonwalk attempts, mimicry, and joyful imperfections.
+
+Protected characterization signals (per CHR-001A): his sketchbook, high-pitched voice, fast excited speech, dry humor, The Face, moonwalk attempts, mimicry, and collected joy.
+
+Tribute guardrails:
+
+- Protect the emotional authenticity of Jay Jay above spectacle.
+- Do not use Jay Jay to recreate real-life events unless explicitly approved.
+- Do not reduce Jay Jay to a symbol; he must still feel like a full person.
+- Fictionalize with respect, warmth, and care.
+- When developing Jay Jay, ask: "Does this honor the spirit of the project?"
 
 ## Identity
 
@@ -143,3 +169,6 @@ Jay Jay may stumble. He may doubt himself. (Sheet text partially cropped — res
 - What is his relationship to B-HIVE Village and why does he leave?
 - How does the Heartstone Charm come to him?
 - What is Bee 10's origin?
+- What is Jay Jay's age range? (from CHR-001)
+- What is Jay Jay afraid people will discover about him? (from CHR-001)
+- How does Jay Jay speak when he is relaxed, hurt, angry, or trying to be brave? (from CHR-001)

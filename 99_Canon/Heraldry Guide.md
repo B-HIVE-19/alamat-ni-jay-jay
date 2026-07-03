@@ -13,7 +13,7 @@ Canon Status:
 Canon Registry Support
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
 Document Owner:
 Canon Keeper / Art Director, 1910 Creative Studios
@@ -63,6 +63,26 @@ June 28, 2026
 
 Notes:
 Do not change heraldry.
+
+## Surname and House Distinction
+
+Name:
+Surnames Are Not Houses
+
+Description:
+House membership and personal surname are distinct. A locked house member may carry a different family surname: Mark Bugay bears the Bernaldo Bee crest; Ricardo "Kuya Ric" Rombaua bears the Eagle crest of House Moralde.
+
+Status:
+🔒 LOCKED
+
+Source:
+CAN-0013, CAN-0014.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+Do not infer surnames from house crests or vice versa.
 
 ## Usage Rule
 

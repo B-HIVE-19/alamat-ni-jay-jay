@@ -7,7 +7,7 @@ Document:
 Character Bible
 
 Version:
-0.2
+0.3
 
 Status:
 Draft
@@ -19,7 +19,7 @@ Owner:
 Jeffrey Moralde
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
 Canon Status:
 Draft
@@ -46,15 +46,29 @@ Characters should be emotionally memorable before they become mechanically usefu
 
 ## Primary Characters
 
+Per CAN-0017, the flat character bibles below are the canonical home per character. CHR-series IDs are preserved as pointer stubs in the per-character folders.
+
 | Character | Document | Canon Status | Notes |
 | --- | --- | --- | --- |
-| Jay Jay | `Jay Jay/CHR-001 Character Profile.md` | Approved | Main character. Inspired by Jeffrey Moralde's late brother. |
-| Kuya | `Kuya/CHR-002 Character Profile.md` | Pending Character Approval | Jay Jay's biological older brother; placeholder profile location established. |
-| Kalika | `Kalika.md` | Approved | First companion. Character details remain draft. |
-| Kuya Ric | `Kuya Ric/CHR-003 Character Profile.md` | Draft | Character folder established. |
-| Mark | `Mark.md` | Draft |  |
-| Lexi | `Lexi/README.md` | Pending Character Approval | Future CHR-00X profile and CHR-00XA soul IDs remain unassigned. |
-| Pandi | `Pandi/README.md` | Pending Character Approval | Future CHR-00Y profile and CHR-00YA soul IDs remain unassigned. |
+| Jay Jay | `Jay Jay.md` | Approved core / sheet details draft | Main character; founding four (CAN-0018). Inspired by Jeffrey Moralde's late brother. CHR-001 preserved as stub. |
+| Kuya | `Kuya.md` | Pending Character Approval | Jay Jay's biological older brother; House Moralde (CAN-0003). CHR-002 preserved as stub. |
+| Kalika | `Kalika.md` | Approved core / sheet details draft | First companion; founding four (CAN-0018). |
+| Kuya Ric | `Kuya Ric.md` | Draft — surname Rombaua locked (CAN-0014) | Founding four (CAN-0018). CHR-003 preserved as stub. |
+| Mark | `Mark.md` | Draft — surname Bugay and MJ-23 bond locked (CAN-0013, CAN-0015) | Founding four (CAN-0018). |
+| Lexi | `Lexi.md` | Draft — House Bernaldo membership locked (CAN-0004) | Joins via story chapter (CAN-0018). Folder holds CHR-LX-001 doctrine. |
+| Ishi | `Ishi.md` | Draft | Master Smith of Maravyne; joins via story chapter (CAN-0018). House membership open (CR-011). |
+| Nanay | — | Locked member of House Bernaldo (CAN-0004) | No character bible yet; appears in Village 01 ("Nanay's Kitchen"). |
+
+## Companions
+
+| Companion | Document | Canon Status | Notes |
+| --- | --- | --- | --- |
+| Bee 10 | see `Jay Jay.md` | Locked name (CAN-0005) | Jay Jay's companion. |
+| Siga | see `Kuya Ric.md` | Locked name (CAN-0006) | Kuya Ric's Rottweiler. |
+| Pandi | `Pandi/README.md`; see `Lexi.md`, `Lexi/CHR-LX-001` | Locked name (CAN-0007) | One combat unit with Lexi. |
+| MJ-23 | `MJ-23.md` | Locked name and bond (CAN-0008, CAN-0015) | Mark's magi-tech partner, inseparable from story start. |
+| Kite | see `Ishi.md` | Draft | Ishi's owl. |
+| Pixie | see `Kalika.md` | Draft | Kalika's fairy (CR-001 pending). |
 
 ## Character Language Standards
 
@@ -79,6 +93,8 @@ Character Lock documents are official cross-discipline references for artists, w
 | --- | --- | --- | --- |
 | Jay Jay | `Character Locks/Jay Jay Lock.md` | Pre-Lock | Core tribute canon is approved; appearance, personality, quotes, animation, and combat details are pending. |
 | Kalika | `Character Locks/Kalika Lock.md` | Pre-Lock | First companion status is approved; detailed lock fields are pending. |
+| Kuya Ric | `Character Locks/Kuya Ric Lock.md` | Pre-Lock | House membership and surname locked (CAN-0003, CAN-0014); detailed lock fields are pending. |
+| Mark | `Character Locks/Mark Lock.md` | Pre-Lock | Surname, companion, and bond timing locked (CAN-0013, CAN-0008, CAN-0015); detailed lock fields are pending. |
 
 Character Locks become permanent only when marked Approved. Pre-Lock material must not be treated as final production reference except where explicitly listed as known locked canon.
 

@@ -105,7 +105,7 @@ Named panels on sheet: Protects & Heals, Retrieves Items, Distracts Enemies, Une
 
 ## Joining Chapter (from storyboard sheet)
 
-A "turn of events" village chapter where Lexi and Pandi join the team to protect what matters most. Theme: Wonder. Protection. Unpredictable Help.
+Lexi is not one of the founding four — she joins via a story chapter (CAN-0018): a "turn of events" village chapter where Lexi and Pandi join the team to protect what matters most. Theme: Wonder. Protection. Unpredictable Help.
 
 Storyboard beats:
 

@@ -138,5 +138,5 @@ Expression set: Teasing, Focused, Laughing, Thinking, Deadpan.
 - Maravyne is the locked starting village (CAN-0001) — so Ishi's Forge is the starting village's weapon shop. Confirm its placement on the Village 01 map.
 - Ishi's sheet claims House Bernaldo, but CAN-0004 locks Bernaldo membership as Nanay, Mark, and Lexi. Does Ishi join the locked membership, or does she carry the bee crest another way? (CR-011)
 - What is Ishi's surname? (Houses and surnames are distinct — CAN-0013/0014.)
-- Is Ishi a playable party member, a recurring shop NPC, or both? (Sheet shows both a store and a battle kit.)
+- Is Ishi a playable party member, a recurring shop NPC, or both? (Sheet shows both a store and a battle kit.) Per CAN-0018 she is not one of the founding four; if playable, she joins via a story chapter.
 - Does she travel with the party or does the forge stay in Maravyne?

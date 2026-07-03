@@ -13,7 +13,7 @@ Canon Status:
 Highest Canon Authority
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
 Document Owner:
 Canon Keeper, 1910 Creative Studios
@@ -295,6 +295,126 @@ June 28, 2026
 
 Notes:
 The Crown survived the Great Fire of Chikagoland untouched. Its survival must remain unexplained in definitive canon. Purple represents earned leadership, wisdom, compassion, humility, hope, endurance, and service rather than wealth.
+
+### Mark Surname and Crest
+
+Name:
+Mark Bugay
+
+Description:
+Mark's surname is Bugay. He bears the Bee crest of House Bernaldo. House membership and personal surname are distinct.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0013.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+Do not use the surname Kahel; it is superseded sheet text.
+
+### Kuya Ric Surname and Crest
+
+Name:
+Ricardo "Kuya Ric" Rombaua
+
+Description:
+Kuya Ric's surname is Rombaua. He bears the Eagle crest consistent with House Moralde membership.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0014.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+The surname "Moralde" on his character art sheet is superseded as his personal surname.
+
+### Mark and MJ-23 Bond Timing
+
+Name:
+Inseparable From the Start
+
+Description:
+Mark and MJ-23 are inseparable from the start of the story.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0015.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+The "Companion: None (Independent)" field on Mark's art sheet is superseded.
+
+### Studio Identity
+
+Name:
+1910 Creative Studios
+
+Description:
+1910 Creative Studios is the real studio behind Alamat ni Jay Jay.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0016.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+"Alamat Studios" was an AI-generated placeholder name, superseded everywhere.
+
+### Character Document Canonical Structure
+
+Name:
+Flat Character Bibles
+
+Description:
+The flat character bibles in `01_Codex/02_Characters/` are the canonical home per character. CHR-series IDs are preserved as pointer stubs and never deleted or reassigned.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0017.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+Character Soul and combat doctrines remain standalone protected documents.
+
+### Founding Four and Party Expansion
+
+Name:
+Founding Four
+
+Description:
+Core Cast Dynamics (AC-111) governs the founding four: Jay Jay, Kalika, Kuya Ric, and Mark. Additional companions join via story chapters.
+
+Status:
+🔒 LOCKED
+
+Source:
+`99_Canon/Canon Decision Log.md` CAN-0018.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+The five-member battle UI mockup reflects post-expansion party size. Joining order is TBD.
 
 ## Canon Registries
 

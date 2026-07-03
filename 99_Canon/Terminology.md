@@ -13,7 +13,7 @@ Canon Status:
 Canon Registry Support
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
 Document Owner:
 Canon Keeper / Narrative Team, 1910 Creative Studios
@@ -38,3 +38,6 @@ This document preserves locked terminology.
 | MJ-23 | Mark's companion. | 🔒 LOCKED | CAN-0008 | June 28, 2026 | Also known as Prototype 23. |
 | Prototype 23 | Alternate designation for MJ-23. | 🔒 LOCKED | CAN-0008 | June 28, 2026 | Do not replace MJ-23 as primary name. |
 | Overclock | Mark's signature ability. | 🔒 LOCKED | CAN-0009 | June 28, 2026 | Perfect focus, not rage. |
+| Bugay | Mark's family surname. | 🔒 LOCKED | CAN-0013 | July 3, 2026 | Distinct from his House Bernaldo membership. Supersedes "Kahel." |
+| Rombaua | Kuya Ric's family surname. | 🔒 LOCKED | CAN-0014 | July 3, 2026 | Distinct from his House Moralde membership. Supersedes "Moralde" as personal surname. |
+| Founding Four | Jay Jay, Kalika, Kuya Ric, and Mark — the core party governed by AC-111. | 🔒 LOCKED | CAN-0018 | July 3, 2026 | Additional companions join via story chapters. |

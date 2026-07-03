@@ -46,6 +46,8 @@ Current approved or provided character functions:
 
 These functions are not class roles. They describe how each person affects the emotional life of the group.
 
+Scope ruling (CAN-0018): this document governs the **founding four** listed above. Additional companions (Lexi, Ishi, and others) join via story chapters; the five-member battle UI mockup reflects post-expansion party size. Later companions receive their own dynamics treatment as they are approved, without diluting the founding-four chemistry defined here.
+
 ## Overall Party Chemistry
 
 The core cast should feel like four different ways of facing the unknown.

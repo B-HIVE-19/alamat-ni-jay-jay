@@ -1,4 +1,4 @@
-# CHR-003 - Character Profile
+# CHR-003 - Character Profile (Stub)
 
 Character Name:
 Kuya Ric
@@ -7,19 +7,25 @@ Document ID:
 CHR-003
 
 Document Type:
-Character Profile
+Character Profile — ID stub
 
 Status:
-Draft v0.1
-
-Canon Status:
-Draft
+Stub v1.0
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
-## Role
+Canon Status:
+ID Preserved — content migrated
 
-## Personality
+## Canonical Location
 
-## Arc
+Per CAN-0017, the canonical character bible for Kuya Ric is:
+
+`../Kuya Ric.md`
+
+The prior CHR-003 draft contained empty section headers only; no content was lost. This document preserves the CHR-003 ID and must not be deleted or reassigned.
+
+## Protected Doctrine
+
+`CHR-003A Character Soul.md` (in this folder) reserves Kuya Ric's future character-soul location.

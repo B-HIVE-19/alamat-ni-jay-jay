@@ -1,24 +1,21 @@
 # Lexi
 
 Status:
-Placeholder v0.2
+Pointer v0.3
 
 Canon Status:
-Pending Character Approval
+See canonical bible
 
 Last Updated:
-June 28, 2026
+July 3, 2026
 
-## Purpose
+## Canonical Location
 
-This folder reserves the future character home for Lexi.
+Per CAN-0017, the canonical character bible for Lexi is:
 
-The requested future files are:
+`../Lexi.md`
 
-- CHR-00X Character Profile.
-- CHR-00XA Character Soul.
-
-These IDs remain unassigned until Lexi's owner, role, purpose, canon status, and dependencies are known.
+This folder holds Lexi's protected doctrine (below). Future CHR-00X Character Profile and CHR-00XA Character Soul IDs remain unassigned; if created, the profile becomes an ID stub pointing to the canonical bible.
 
 ## Related World Canon
 

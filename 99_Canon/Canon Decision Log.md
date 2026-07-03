@@ -345,3 +345,43 @@ July 3, 2026
 
 Notes:
 Older codex documents referencing "Alamat Studios" are migrated to 1910 Creative Studios (historical Change Log entries preserved as written). Satisfies the PROD-000 action item "Reconcile 1910 Creative Studios naming across older Alamat Studios references."
+
+## CAN-0017
+
+Name:
+Character Document Canonical Structure
+
+Description:
+The flat character bibles in `01_Codex/02_Characters/` (`Jay Jay.md`, `Kuya.md`, `Kalika.md`, `Kuya Ric.md`, `Mark.md`, `Lexi.md`, `Ishi.md`, `MJ-23.md`) are the canonical home for each character. CHR-series profile documents are preserved as ID stubs pointing to the canonical file — CHR IDs are never deleted or reassigned. Character Soul doctrines (CHR-001A, CHR-002A, CHR-003A) and combat doctrines (CHR-LX-001) remain standalone protected documents.
+
+Status:
+🔒 LOCKED
+
+Source:
+User-approved canon prompt, July 3, 2026.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+Resolves Contradiction Register CR-012. The Character Bible Index (AC-100) must list all current characters and all existing character locks.
+
+## CAN-0018
+
+Name:
+Founding Four and Party Expansion
+
+Description:
+Core Cast Dynamics (AC-111) governs the founding four: Jay Jay, Kalika, Kuya Ric, and Mark. Additional companions (Lexi, Ishi, and others) join via story chapters. The five-member battle UI mockup reflects post-expansion party size, not the founding party.
+
+Status:
+🔒 LOCKED
+
+Source:
+User-approved canon prompt, July 3, 2026.
+
+Last Updated:
+July 3, 2026
+
+Notes:
+Resolves Contradiction Register CR-013. Companion joining order and chapter placement remain TBD (see Timeline registry).
