@@ -1,7 +1,7 @@
 # Contradiction Register
 
 Status:
-Active v0.2
+Active v0.3
 
 Canon Status:
 Internal
@@ -25,6 +25,10 @@ This register tracks possible contradictions, unresolved canon conflicts, and co
 | CR-009 | 2026-07-03 | Village naming: the starting village is locked as Maravyne (CAN-0001) and the Village 01 mockup depicts it, but Jay Jay's and Mark's sheets list home as "B-HIVE Village." Is B-HIVE a nickname/district of Maravyne, a Bernaldo family compound, or superseded text? Also: Kuya Ric's hometown is Baybay ng Alon yet his shared workshop sits in Maravyne. (The workshop label "Kuya & Kuya Ric's Workshop" is correct — Kuya is CHR-002, a separate character.) | Village 01.md, Jay Jay.md, Mark.md, Kuya Ric.md | Open | Pending decision |
 | CR-010 | 2026-07-03 | Modern pop-culture references inside the fantasy world: Ishi likes "anime" (in addition to Kalika's Disney references, CR-001). Decide whether real-world media exists in-world, gets in-world equivalents, or stays as private tribute canon. | Ishi.md, Kalika.md | Open | Pending decision |
 | CR-011 | 2026-07-03 | Crest/membership reconciliation: (a) Ishi's sheet claims House Bernaldo, but CAN-0004 locks Bernaldo membership as Nanay, Mark, and Lexi — does Ishi get added, or does she carry the bee crest another way? (b) Jay Jay is locked House Moralde (Eagle, CAN-0003) but wears a bee "B-HIVE" crest on his sheets — same surname-vs-house pattern as Mark, or art to revise? (c) Ishi's surname is undefined. | Ishi.md, Jay Jay.md, Canon Decision Log | Open | Pending decision |
+| CR-012 | 2026-07-03 | Parallel character document structures: per-character folders hold CHR-series profiles (`Jay Jay/CHR-001`, `Kuya Ric/CHR-003`, `Lexi/README`) while flat art-sheet bibles hold the July 3 canon (`Jay Jay.md`, `Kuya Ric.md`, `Lexi.md`, `Mark.md`, `Ishi.md`, `MJ-23.md`). CHR-003 is an empty stub while `Kuya Ric.md` is rich. The Character Bible Index (AC-100) doesn't list Ishi or MJ-23, still points at stubs, and its Character Locks table omits the existing Kuya Ric and Mark locks. Decide the canonical home per character, merge, and refresh the index. | Character Bible Index.md, 02_Characters folders and flat files | Open | Pending decision |
+| CR-013 | 2026-07-03 | Party composition: Core Cast Dynamics (AC-111, Approved Canon) defines the core party as four — Jay Jay, Kalika, Kuya Ric, Mark. But Lexi has a full joining-chapter storyboard and appears in the five-member battle UI mockup, and Ishi has a complete battle kit (Striker/Artificer). Clarify whether AC-111's "core four" stands with Lexi/Ishi as later-joining companions, or whether the core cast document should expand. | Core Cast Dynamics.md, Lexi.md, Ishi.md, Battle System Prototype.md | Open | Pending decision |
+| CR-014 | 2026-07-03 | Characterization overlap on the "observer/artist" signal: CHR-001A protects Jay Jay's sketchbook ("drawing teaches him to truly see"); Kalika's art-sheet identity is the Starlight Sketchbook and "she notices everything"; Ishi's companion Kite "sees what others miss." Three cast members share the sketching/observation fingerprint — needs deliberate differentiation so each stays distinct. | Jay Jay/CHR-001A Character Soul.md, Kalika.md, Ishi.md | Open | Pending decision |
+| CR-015 | 2026-07-03 | Canon registry sync lag: the Canon Bible, Terminology, Heraldry Guide, and Character Registry in 99_Canon mirror CAN-0001–0012 but do not yet reflect CAN-0013–0016 (Mark Bugay, Ric Rombaua, MJ-23 bond timing, studio identity). Mechanical Canon Keeper sync pending — no creative decision required. | 99_Canon registries, Canon Decision Log.md | Open | Ready to execute on approval |
 
 ## Resolved Issues
 
